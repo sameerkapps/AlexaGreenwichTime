@@ -1,0 +1,8 @@
+ZuluTime what is GMT
+ZuluTime what is zulu time
+ZuluTime say GMT
+ZuluTime say Greenwich Mean Time
+ZuluTime say UTC
+ZuluTime say Zulu time
+AMAZON.HelpIntent help
+AMAZON.HelpIntent Help

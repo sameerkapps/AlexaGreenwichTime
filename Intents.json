@@ -1,0 +1,11 @@
+{
+  "intents": [
+    {
+      "intent": "ZuluTime",
+      "slots": [ ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
